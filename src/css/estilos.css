@@ -93,45 +93,10 @@ main .cartao-pokemon .tipo {
     border-radius: 10px;
 }
 
-.grama {
-    background-color: #7ac74c;
+main .tipos .png{
+    width: 50px;
 }
 
-.veneno {
-    background-color: #df67ddfb;
-}
-
-.fogo {
-    background-color: #ee8130;
-}
-
-.agua {
-    background-color: #6390f0;
-}
-
-.inseto {
-    background-color: #a6b91a;
-}
-
-.normal {
-    background-color: #c6c7c5;
-}
-
-.voador {
-    background-color: #9c9e9b;
-}
-
-.fada {
-    background-color: #D3ACDF;
-}
-
-.terra {
-    background-color: #8B7E1E;
-}
-
-.eletrico {
-    background-color: #ECD317;
-}
 
 main .descricao {
     max-height: 80px;
